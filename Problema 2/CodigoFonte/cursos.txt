@@ -1,0 +1,35 @@
+Tecnologia e Ciências Exatas 
+Engenharia Civil
+Engenharia da Computação 
+Engenharia de Alimentos 
+Licenciatura em Matemática 
+Lic. e Bacharelado em Física 
+Licenciatura em Química 
+
+Ciências Humanas e Filosofia 
+Administração 
+Ciências Contábeis 
+Ciências Econômicas 
+Lic. e Bacharelado em Filosofia 
+Licenciatura em História 
+Lic. e Bacharelado em Geografia 
+Licenciatura em Pedagogia 
+Direito 
+Psicologia 
+
+Letras e Artes 
+Licenciatura em Letras Vernáculas 
+Licenciatura em Letras c/ Inglês 
+Licenciatura em Letras c/ Francês 
+Licenciatura em Letras c/ Espanhol 
+Licenciatura em Música 
+
+Ciências Naturais e da Saúde 
+Licenciatura em Ciências Biológicas 
+Bacharelado em Ciências Biológicas 
+Licenciatura em Educação Física 
+Enfermagem 
+Odontologia 
+Farmácia 
+Medicina 
+Agronomia
